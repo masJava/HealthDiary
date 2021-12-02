@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">HealthDiary</string>
+    <string name="app_name">Health Diary</string>
+    <string name="toolbar_health">Health Diary</string>
+    <string name="new_health_title">Новые показания</string>
+    <string name="logout_title">Выход</string>
+    <string name="logout_message">Точно выйти?</string>
+    <string name="logout_ok">Yes</string>
+    <string name="logout_cancel">No</string>
+    <string name="helth_del_message">Точно удалить?</string>
+    <string name="health_del_ok">Yes</string>
+    <string name="health_del_cancel">No</string>
+    <string name="min_pressure">Min pressure</string>
+    <string name="max_pressure">Max pressure</string>
+    <string name="date">Date</string>
+    <string name="pulse">Pulse</string>
+    <string name="save">Save</string>
+    <string name="time">Time</string>
+    <string name="dateStr">date</string>
+
 </resources>
